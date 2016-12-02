@@ -5,11 +5,11 @@ package com.techtownlab;
  */
 public class Utils {
 
-    public String getProduct() {
+    public String getProductName() {
         return product;
     }
 
-    public void setProduct(String product) {
+    public void setProductName(String product) {
         this.product = product;
     }
 

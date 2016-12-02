@@ -11,8 +11,8 @@ public class App
         System.out.println( "Hello World!" );
 
         Utils utils = new Utils();
-        utils.setProduct("myproduct");
+        utils.setProductName("myproduct");
 
-        System.out.println(utils.getProduct());
+        System.out.println(utils.getProductName());
     }
 }
